@@ -6,6 +6,7 @@ const Article2 = () => {
       <p>
         WIUEFJIMFIMEDQOMIFWJ IMWCESOIJCOW IJM EWOIAJDOWMDM4846194216494 isdmcosm
       </p>
+      <p>buseffsn uwiefn ui</p>
     </div>
   );
 };
