@@ -1,0 +1,19 @@
+.nav {
+  height: 200px;
+  width: 100%;
+  background-color: aqua;
+}
+.nav-btn {
+  border-radius: 5px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: larger;
+}
+
+.art1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: large;
+}
+.art2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: large;
+}
